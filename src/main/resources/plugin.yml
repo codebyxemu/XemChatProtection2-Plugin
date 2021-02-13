@@ -1,0 +1,6 @@
+name: XemChatProtection2
+version: ${project.version}
+main: me.xemu.xemchatprotection2.XemChatProtection2
+api-version: 1.16
+authors: [ Xemu ]
+description: The next generation chat protection plugin for your spigot server!
